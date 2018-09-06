@@ -1,3 +1,6 @@
+mini_game
+just for fun
+
 ## quickstart
 
 ## 源码目录介绍
