@@ -10,7 +10,7 @@
 	"compileType": "game",
 	"libVersion": "1.9.94",
 	"appid": "wx5534c2d679a41ca2",
-	"projectname": "little_game",
+	"projectname": "mini_game",
 	"condition": {
 		"search": {
 			"current": -1,
