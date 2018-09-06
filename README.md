@@ -1,7 +1,3 @@
-# mini_games
-just for happy
-
-
 ## quickstart
 
 ## 源码目录介绍
